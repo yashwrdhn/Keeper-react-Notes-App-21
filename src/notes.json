@@ -1,0 +1,18 @@
+
+[
+    {   
+    "id" :1,
+    "title":"Note Keeper",
+    "content":" This is a react based Note keeping single page App."
+    },
+    {   
+    "id" :2,
+    "title":"Design and Styling",
+    "content":"I have used Bootstrap here, Please dont mind my poor styling, I generally prefer backend."
+    },  
+    {   
+    "id" :3,
+    "title":" Database and hosting",
+    "content":"currently not connected to any database. should you be live on netlify though."
+    }
+]
